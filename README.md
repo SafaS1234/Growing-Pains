@@ -1,27 +1,10 @@
-# Put Your Project Name Here
+# Growing Pains
 
 ## Background
-
-This section should give the reader a bit of background information about what this project does. Write a sentence or two in this space.
-
-## Getting Started
-
-### Prerequisites
-
-Are there any prerequisites for your project? If so, list them here. If note, you can delete this section.
-
-- CMake v1.0
-- C++ v11
-- Adobe Photoshop v12
+Implement a dynamic array structure to store integers. Also, allow it to grow by one if the user tries to add an integer when the array is already full.
 
 ### Set Up
-
-How does a new user install and run your program? Ideally, you want this to be general for any new developer, but for the time being you can list the specific steps that you take to build the project on YOUR system.
-
-1. Do this thing first.
-2. Do this thing second.
-3. Do this thing third.
-4. Do this thing fourth.
+Open in VS Code and run.
 
 ### Running the Test Suite
 
