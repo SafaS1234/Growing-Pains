@@ -6,3 +6,14 @@ int main()
 {
   cout << "Hello template!" << endl;
 }
+
+
+
+
+
+/*
+private
+
+
+
+*/
